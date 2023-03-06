@@ -4,9 +4,7 @@ geopandas
 scipy
 matplotlib
 ipywidgets==7.7.2
--f ~/src/lerc/OtherLanguages/Python/
 arcgis
 google-cloud-storage
 gdal
 azure-storage-blob==12.9.0
-prefect==1.2.1
