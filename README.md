@@ -7,7 +7,7 @@ The WebMap widget in the Notebook doesn't show anything, and the Map Viewer in A
 
 Python API Version 2.1.0.2
 
-##
+## webmap_text_property.ipynb
 Workaround for issue in `raster_ops.ipynb`.
 
   * Get, set, and update the "text" item property of the WebMap to set the layerType
