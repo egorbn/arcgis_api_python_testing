@@ -5,6 +5,5 @@ scipy
 matplotlib
 ipywidgets==7.7.2
 arcgis
-google-cloud-storage
 gdal
 azure-storage-blob==12.9.0
